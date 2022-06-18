@@ -1,0 +1,10 @@
+theme: jekyll-text-theme
+
+text_skin: dark
+highlight_theme: default
+url     : https://shilab66.github.io/
+title   : L Title
+description: > # this means to ignore newlines until "Language & timezone"
+  L Description
+
+timezone: US
